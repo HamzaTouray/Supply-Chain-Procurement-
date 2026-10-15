@@ -529,7 +529,7 @@ else:
 
 # ============================================================
 
-st.sidebar.title("ðŸ“¦ Procurement AI")
+st.sidebar.title("Spply Chain Procurement")
 
 st.sidebar.caption(
 
