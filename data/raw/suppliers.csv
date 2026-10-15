@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,default_lead_time_weeks,default_transit_weeks,payment_terms,currency,supplier_status,behavior_type
+SUP-001,Apex Industrial,Belgium,4,2,NET30,USD,Active,excellent
+SUP-002,Nova Manufacturing,Germany,5,2,NET30,USD,Active,excellent
+SUP-003,Vertex Components,Netherlands,5,2,NET45,USD,Active,reliable
+SUP-004,PrimeTech Supply,United States,3,1,NET30,USD,Active,reliable
+SUP-005,Global Source Systems,China,6,4,NET45,USD,Active,frequently_late
+SUP-006,EastBridge Manufacturing,Vietnam,6,4,NET30,USD,Active,frequently_late
+SUP-007,Precision Parts Group,Mexico,4,1,NET30,USD,Active,partial_shipments
+SUP-008,Titan Industrial,China,7,4,NET45,USD,Active,partial_and_late
+SUP-009,Dynamic Supply Co,India,6,3,NET30,USD,Active,unpredictable
+SUP-010,Nordic Components,Sweden,8,2,NET45,USD,Active,long_but_consistent

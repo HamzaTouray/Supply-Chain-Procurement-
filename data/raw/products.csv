@@ -1,0 +1,201 @@
+sku,product_name,category,supplier_id,unit_cost,unit_price,moq,case_pack,quoted_lead_time_weeks,transit_time_weeks,service_level_target,demand_profile,active
+SKU-001,Equipment Product 001,Equipment,SUP-004,1762.61,2469.89,50,5,3,1,0.97,stable,True
+SKU-002,Electronics Product 002,Electronics,SUP-003,149.98,222.28,5,1,4,2,0.95,stable,True
+SKU-003,Electronics Product 003,Electronics,SUP-003,278.66,447.93,20,20,6,2,0.95,volatile,True
+SKU-004,Equipment Product 004,Equipment,SUP-008,9467.48,12665.71,10,10,7,4,0.99,stable,True
+SKU-005,Consumables Product 005,Consumables,SUP-003,19.82,28.92,30,10,5,2,0.9,stable,True
+SKU-006,Spare Parts Product 006,Spare Parts,SUP-008,406.81,726.24,25,1,7,4,0.95,stable,True
+SKU-007,Consumables Product 007,Consumables,SUP-010,88.72,145.28,10,5,7,2,0.97,new_product,True
+SKU-008,Equipment Product 008,Equipment,SUP-008,5491.33,8233.57,10,5,7,4,0.97,volatile,True
+SKU-009,Equipment Product 009,Equipment,SUP-004,7895.88,10613.06,20,5,3,1,0.99,volatile,True
+SKU-010,Electronics Product 010,Electronics,SUP-010,302.56,432.16,5,5,7,2,0.95,intermittent,True
+SKU-011,Equipment Product 011,Equipment,SUP-002,3715.32,6570.92,50,5,5,2,0.97,seasonal,True
+SKU-012,Spare Parts Product 012,Spare Parts,SUP-005,115.72,153.54,50,10,7,4,0.97,seasonal,True
+SKU-013,Spare Parts Product 013,Spare Parts,SUP-005,277.88,499.78,20,20,6,4,0.97,declining,True
+SKU-014,Accessories Product 014,Accessories,SUP-007,321.17,541.38,20,1,4,1,0.99,volatile,True
+SKU-015,Electronics Product 015,Electronics,SUP-004,339.13,527.1,50,1,2,1,0.97,intermittent,True
+SKU-016,Consumables Product 016,Consumables,SUP-005,21.18,31.54,50,1,6,4,0.95,intermittent,True
+SKU-017,Electronics Product 017,Electronics,SUP-003,926.26,1416.46,50,10,4,2,0.95,seasonal,True
+SKU-018,Consumables Product 018,Consumables,SUP-006,115.56,178.73,25,1,7,4,0.9,volatile,True
+SKU-019,Consumables Product 019,Consumables,SUP-007,132.41,226.08,5,5,4,1,0.95,stable,True
+SKU-020,Equipment Product 020,Equipment,SUP-001,2399.36,3640.54,5,5,3,2,0.99,growth,True
+SKU-021,Accessories Product 021,Accessories,SUP-006,147.23,254.68,25,5,6,4,0.97,declining,True
+SKU-022,Consumables Product 022,Consumables,SUP-003,62.85,101.78,40,20,5,2,0.95,seasonal,True
+SKU-023,Equipment Product 023,Equipment,SUP-004,5049.9,7946.37,5,5,3,1,0.95,stable,True
+SKU-024,Accessories Product 024,Accessories,SUP-001,52.35,66.34,25,1,4,2,0.97,stable,True
+SKU-025,Accessories Product 025,Accessories,SUP-001,278.83,459.47,20,20,5,2,0.97,declining,True
+SKU-026,Accessories Product 026,Accessories,SUP-007,65.28,105.26,20,20,4,1,0.97,seasonal,True
+SKU-027,Equipment Product 027,Equipment,SUP-004,2136.43,3526.22,5,5,2,1,0.95,stable,True
+SKU-028,Spare Parts Product 028,Spare Parts,SUP-006,145.78,219.32,40,20,5,4,0.97,stable,True
+SKU-029,Electronics Product 029,Electronics,SUP-005,1011.43,1803.33,20,5,6,4,0.95,seasonal,True
+SKU-030,Spare Parts Product 030,Spare Parts,SUP-001,677.81,908.64,20,20,3,2,0.97,intermittent,True
+SKU-031,Consumables Product 031,Consumables,SUP-008,66.34,117.85,20,20,8,4,0.95,stable,True
+SKU-032,Equipment Product 032,Equipment,SUP-001,7581.39,11737.56,1,1,4,2,0.95,seasonal,True
+SKU-033,Electronics Product 033,Electronics,SUP-007,231.05,410.91,5,5,3,1,0.97,seasonal,True
+SKU-034,Accessories Product 034,Accessories,SUP-007,213.81,377.99,25,5,5,1,0.95,seasonal,True
+SKU-035,Spare Parts Product 035,Spare Parts,SUP-003,496.46,774.91,10,10,5,2,0.95,growth,True
+SKU-036,Consumables Product 036,Consumables,SUP-004,62.39,101.04,20,20,3,1,0.99,intermittent,True
+SKU-037,Equipment Product 037,Equipment,SUP-010,6312.0,11356.23,25,1,7,2,0.95,stable,True
+SKU-038,Consumables Product 038,Consumables,SUP-001,132.73,230.1,10,10,4,2,0.95,volatile,True
+SKU-039,Consumables Product 039,Consumables,SUP-008,93.69,167.98,50,1,8,4,0.95,intermittent,True
+SKU-040,Equipment Product 040,Equipment,SUP-002,11358.77,15037.42,50,1,4,2,0.95,seasonal,True
+SKU-041,Electronics Product 041,Electronics,SUP-010,292.22,420.38,20,20,8,2,0.97,intermittent,True
+SKU-042,Equipment Product 042,Equipment,SUP-004,8159.99,13922.1,10,1,2,1,0.95,declining,True
+SKU-043,Consumables Product 043,Consumables,SUP-010,28.43,42.45,1,1,8,2,0.97,stable,True
+SKU-044,Accessories Product 044,Accessories,SUP-003,281.88,481.74,20,5,6,2,0.95,stable,True
+SKU-045,Equipment Product 045,Equipment,SUP-003,10938.71,14937.27,10,1,5,2,0.97,declining,True
+SKU-046,Spare Parts Product 046,Spare Parts,SUP-010,730.64,1214.48,5,5,8,2,0.9,intermittent,True
+SKU-047,Consumables Product 047,Consumables,SUP-002,118.45,174.88,10,10,5,2,0.95,declining,True
+SKU-048,Equipment Product 048,Equipment,SUP-009,10515.23,14430.46,10,10,6,3,0.97,intermittent,True
+SKU-049,Accessories Product 049,Accessories,SUP-004,31.36,42.53,10,10,3,1,0.95,new_product,True
+SKU-050,Electronics Product 050,Electronics,SUP-008,509.63,912.05,10,10,8,4,0.99,stable,True
+SKU-051,Accessories Product 051,Accessories,SUP-003,298.68,534.92,25,1,4,2,0.97,volatile,True
+SKU-052,Consumables Product 052,Consumables,SUP-005,68.28,122.31,40,20,5,4,0.9,stable,True
+SKU-053,Spare Parts Product 053,Spare Parts,SUP-009,11.25,19.79,10,5,7,3,0.99,volatile,True
+SKU-054,Consumables Product 054,Consumables,SUP-001,95.36,153.99,30,10,3,2,0.95,volatile,True
+SKU-055,Spare Parts Product 055,Spare Parts,SUP-008,525.93,817.78,60,20,7,4,0.97,intermittent,True
+SKU-056,Accessories Product 056,Accessories,SUP-001,315.45,446.53,10,1,5,2,0.95,stable,True
+SKU-057,Electronics Product 057,Electronics,SUP-009,747.66,1067.09,60,20,6,3,0.95,stable,True
+SKU-058,Accessories Product 058,Accessories,SUP-008,336.25,472.8,10,10,8,4,0.97,intermittent,True
+SKU-059,Consumables Product 059,Consumables,SUP-009,37.57,51.08,5,1,5,3,0.95,new_product,True
+SKU-060,Equipment Product 060,Equipment,SUP-005,6281.87,10913.97,50,5,7,4,0.95,growth,True
+SKU-061,Accessories Product 061,Accessories,SUP-003,90.83,147.89,20,20,4,2,0.99,stable,True
+SKU-062,Electronics Product 062,Electronics,SUP-003,584.23,909.4,20,20,4,2,0.97,intermittent,True
+SKU-063,Electronics Product 063,Electronics,SUP-008,734.77,1302.4,40,20,7,4,0.95,volatile,True
+SKU-064,Spare Parts Product 064,Spare Parts,SUP-010,343.05,570.66,60,20,8,2,0.95,stable,True
+SKU-065,Consumables Product 065,Consumables,SUP-010,39.0,55.95,5,1,9,2,0.95,stable,True
+SKU-066,Accessories Product 066,Accessories,SUP-001,359.08,461.53,30,10,4,2,0.9,seasonal,True
+SKU-067,Spare Parts Product 067,Spare Parts,SUP-003,298.21,499.02,20,20,4,2,0.95,stable,True
+SKU-068,Spare Parts Product 068,Spare Parts,SUP-007,641.55,1138.36,20,5,4,1,0.95,stable,True
+SKU-069,Equipment Product 069,Equipment,SUP-008,5583.0,9032.63,20,5,7,4,0.99,intermittent,True
+SKU-070,Electronics Product 070,Electronics,SUP-007,81.01,118.82,1,1,5,1,0.95,growth,True
+SKU-071,Spare Parts Product 071,Spare Parts,SUP-010,144.48,201.27,20,5,8,2,0.97,volatile,True
+SKU-072,Spare Parts Product 072,Spare Parts,SUP-006,215.91,382.84,10,10,6,4,0.97,seasonal,True
+SKU-073,Equipment Product 073,Equipment,SUP-006,11999.03,17308.34,1,1,5,4,0.95,intermittent,True
+SKU-074,Equipment Product 074,Equipment,SUP-001,8024.02,11082.77,25,1,4,2,0.95,intermittent,True
+SKU-075,Consumables Product 075,Consumables,SUP-005,116.2,155.97,5,1,7,4,0.95,new_product,True
+SKU-076,Equipment Product 076,Equipment,SUP-009,11253.32,17630.44,60,20,6,3,0.95,stable,True
+SKU-077,Accessories Product 077,Accessories,SUP-006,68.91,115.41,25,1,7,4,0.95,declining,True
+SKU-078,Spare Parts Product 078,Spare Parts,SUP-006,499.53,643.36,20,1,6,4,0.95,intermittent,True
+SKU-079,Consumables Product 079,Consumables,SUP-009,97.16,165.73,20,20,6,3,0.99,declining,True
+SKU-080,Consumables Product 080,Consumables,SUP-008,94.31,165.59,20,20,7,4,0.95,intermittent,True
+SKU-081,Consumables Product 081,Consumables,SUP-005,128.5,219.34,20,10,5,4,0.95,stable,True
+SKU-082,Electronics Product 082,Electronics,SUP-007,818.42,1174.45,10,10,4,1,0.95,seasonal,True
+SKU-083,Consumables Product 083,Consumables,SUP-010,54.35,94.25,25,1,8,2,0.9,intermittent,True
+SKU-084,Spare Parts Product 084,Spare Parts,SUP-008,371.55,619.37,20,20,7,4,0.9,declining,True
+SKU-085,Accessories Product 085,Accessories,SUP-009,214.11,296.29,20,10,7,3,0.95,seasonal,True
+SKU-086,Electronics Product 086,Electronics,SUP-009,430.41,704.4,10,10,6,3,0.97,stable,True
+SKU-087,Consumables Product 087,Consumables,SUP-005,22.34,34.51,5,5,6,4,0.95,declining,True
+SKU-088,Electronics Product 088,Electronics,SUP-005,1173.1,1804.87,5,1,6,4,0.95,stable,True
+SKU-089,Consumables Product 089,Consumables,SUP-006,7.05,10.88,1,1,6,4,0.97,seasonal,True
+SKU-090,Accessories Product 090,Accessories,SUP-009,326.18,542.78,25,1,5,3,0.95,stable,True
+SKU-091,Consumables Product 091,Consumables,SUP-003,31.73,40.56,1,1,5,2,0.9,volatile,True
+SKU-092,Equipment Product 092,Equipment,SUP-010,3093.13,5246.34,5,1,8,2,0.97,stable,True
+SKU-093,Electronics Product 093,Electronics,SUP-008,735.55,1169.62,20,20,8,4,0.95,intermittent,True
+SKU-094,Electronics Product 094,Electronics,SUP-001,1188.54,1685.3,25,1,5,2,0.9,new_product,True
+SKU-095,Accessories Product 095,Accessories,SUP-008,320.25,446.93,5,5,6,4,0.9,stable,True
+SKU-096,Equipment Product 096,Equipment,SUP-005,5789.43,9431.87,10,10,6,4,0.97,stable,True
+SKU-097,Spare Parts Product 097,Spare Parts,SUP-007,62.67,86.38,20,5,4,1,0.95,stable,True
+SKU-098,Accessories Product 098,Accessories,SUP-004,456.04,777.39,5,1,2,1,0.95,declining,True
+SKU-099,Electronics Product 099,Electronics,SUP-006,1109.37,1654.66,50,10,6,4,0.95,volatile,True
+SKU-100,Electronics Product 100,Electronics,SUP-009,617.86,799.66,60,20,5,3,0.95,volatile,True
+SKU-101,Equipment Product 101,Equipment,SUP-001,3903.71,6327.38,50,1,5,2,0.95,intermittent,True
+SKU-102,Accessories Product 102,Accessories,SUP-006,245.84,395.39,25,5,6,4,0.97,volatile,True
+SKU-103,Equipment Product 103,Equipment,SUP-005,6435.11,9489.16,5,1,6,4,0.97,volatile,True
+SKU-104,Consumables Product 104,Consumables,SUP-010,101.07,148.6,20,1,9,2,0.95,stable,True
+SKU-105,Equipment Product 105,Equipment,SUP-001,11686.94,17206.64,50,1,5,2,0.95,intermittent,True
+SKU-106,Equipment Product 106,Equipment,SUP-005,3469.62,5027.41,20,20,6,4,0.95,stable,True
+SKU-107,Consumables Product 107,Consumables,SUP-008,68.53,111.98,50,1,6,4,0.95,growth,True
+SKU-108,Accessories Product 108,Accessories,SUP-004,169.16,212.72,5,1,3,1,0.99,new_product,True
+SKU-109,Spare Parts Product 109,Spare Parts,SUP-002,710.82,1141.75,60,20,5,2,0.97,stable,True
+SKU-110,Spare Parts Product 110,Spare Parts,SUP-009,627.7,1123.04,40,20,6,3,0.95,stable,True
+SKU-111,Electronics Product 111,Electronics,SUP-010,634.48,1099.95,20,10,7,2,0.97,volatile,True
+SKU-112,Consumables Product 112,Consumables,SUP-007,123.98,174.26,20,20,4,1,0.95,volatile,True
+SKU-113,Consumables Product 113,Consumables,SUP-007,85.03,131.7,10,10,4,1,0.95,new_product,True
+SKU-114,Spare Parts Product 114,Spare Parts,SUP-007,182.84,306.54,50,10,3,1,0.99,seasonal,True
+SKU-115,Spare Parts Product 115,Spare Parts,SUP-007,295.7,477.56,20,20,4,1,0.99,stable,True
+SKU-116,Consumables Product 116,Consumables,SUP-010,131.11,226.93,25,1,8,2,0.9,intermittent,True
+SKU-117,Accessories Product 117,Accessories,SUP-010,216.79,349.06,20,1,8,2,0.95,declining,True
+SKU-118,Electronics Product 118,Electronics,SUP-008,846.61,1360.85,20,20,7,4,0.97,growth,True
+SKU-119,Spare Parts Product 119,Spare Parts,SUP-007,655.56,832.39,50,5,3,1,0.95,growth,True
+SKU-120,Accessories Product 120,Accessories,SUP-001,378.45,563.39,20,1,3,2,0.95,stable,True
+SKU-121,Equipment Product 121,Equipment,SUP-010,1982.91,3346.91,10,10,8,2,0.95,volatile,True
+SKU-122,Spare Parts Product 122,Spare Parts,SUP-005,428.79,722.89,5,5,6,4,0.95,growth,True
+SKU-123,Accessories Product 123,Accessories,SUP-006,258.88,406.63,60,20,6,4,0.95,stable,True
+SKU-124,Equipment Product 124,Equipment,SUP-001,10938.54,16472.23,5,5,4,2,0.95,volatile,True
+SKU-125,Electronics Product 125,Electronics,SUP-003,394.03,701.03,20,20,5,2,0.95,stable,True
+SKU-126,Spare Parts Product 126,Spare Parts,SUP-004,88.92,129.8,50,10,3,1,0.99,stable,True
+SKU-127,Spare Parts Product 127,Spare Parts,SUP-007,213.12,332.74,20,20,3,1,0.95,declining,True
+SKU-128,Consumables Product 128,Consumables,SUP-007,36.76,49.79,50,5,4,1,0.95,stable,True
+SKU-129,Equipment Product 129,Equipment,SUP-005,4743.8,7079.9,50,10,7,4,0.99,stable,True
+SKU-130,Consumables Product 130,Consumables,SUP-002,113.38,152.68,30,10,5,2,0.95,seasonal,True
+SKU-131,Accessories Product 131,Accessories,SUP-009,143.35,244.21,50,10,6,3,0.97,intermittent,True
+SKU-132,Spare Parts Product 132,Spare Parts,SUP-010,722.54,959.11,40,20,8,2,0.97,volatile,True
+SKU-133,Equipment Product 133,Equipment,SUP-008,4276.82,5636.74,30,10,7,4,0.95,volatile,True
+SKU-134,Consumables Product 134,Consumables,SUP-002,20.71,28.55,30,10,4,2,0.9,stable,True
+SKU-135,Spare Parts Product 135,Spare Parts,SUP-001,682.95,967.2,5,1,4,2,0.9,stable,True
+SKU-136,Spare Parts Product 136,Spare Parts,SUP-001,95.93,132.3,20,5,5,2,0.97,seasonal,True
+SKU-137,Electronics Product 137,Electronics,SUP-001,532.0,882.19,60,20,4,2,0.95,stable,True
+SKU-138,Spare Parts Product 138,Spare Parts,SUP-001,704.9,989.58,20,5,4,2,0.95,volatile,True
+SKU-139,Consumables Product 139,Consumables,SUP-001,19.41,31.58,10,10,5,2,0.95,volatile,True
+SKU-140,Equipment Product 140,Equipment,SUP-004,11464.61,19527.73,50,5,2,1,0.99,growth,True
+SKU-141,Equipment Product 141,Equipment,SUP-008,9761.34,13509.33,5,5,7,4,0.95,intermittent,True
+SKU-142,Electronics Product 142,Electronics,SUP-007,298.34,515.63,25,5,4,1,0.97,stable,True
+SKU-143,Accessories Product 143,Accessories,SUP-010,494.01,764.29,50,1,8,2,0.95,intermittent,True
+SKU-144,Consumables Product 144,Consumables,SUP-009,119.55,165.08,5,1,6,3,0.95,stable,True
+SKU-145,Spare Parts Product 145,Spare Parts,SUP-005,399.3,662.88,20,20,6,4,0.95,seasonal,True
+SKU-146,Electronics Product 146,Electronics,SUP-006,304.78,484.08,20,10,7,4,0.9,growth,True
+SKU-147,Spare Parts Product 147,Spare Parts,SUP-010,637.0,945.59,60,20,7,2,0.9,intermittent,True
+SKU-148,Equipment Product 148,Equipment,SUP-002,4882.17,6501.02,30,10,5,2,0.95,growth,True
+SKU-149,Consumables Product 149,Consumables,SUP-008,60.23,95.08,40,20,7,4,0.9,growth,True
+SKU-150,Equipment Product 150,Equipment,SUP-006,10454.32,16810.59,20,5,7,4,0.95,seasonal,True
+SKU-151,Consumables Product 151,Consumables,SUP-006,124.98,183.63,20,10,5,4,0.95,volatile,True
+SKU-152,Accessories Product 152,Accessories,SUP-009,349.67,528.3,1,1,5,3,0.97,volatile,True
+SKU-153,Consumables Product 153,Consumables,SUP-001,122.71,190.94,50,10,5,2,0.95,stable,True
+SKU-154,Spare Parts Product 154,Spare Parts,SUP-005,652.39,1074.21,10,10,6,4,0.95,stable,True
+SKU-155,Accessories Product 155,Accessories,SUP-003,335.23,460.38,30,10,4,2,0.97,volatile,True
+SKU-156,Electronics Product 156,Electronics,SUP-010,310.08,460.78,25,1,9,2,0.97,intermittent,True
+SKU-157,Consumables Product 157,Consumables,SUP-009,9.2,12.88,10,10,6,3,0.97,stable,True
+SKU-158,Electronics Product 158,Electronics,SUP-009,805.95,1038.28,50,1,5,3,0.95,seasonal,True
+SKU-159,Spare Parts Product 159,Spare Parts,SUP-007,262.26,381.2,1,1,4,1,0.97,stable,True
+SKU-160,Equipment Product 160,Equipment,SUP-010,8576.67,12004.39,40,20,8,2,0.95,volatile,True
+SKU-161,Electronics Product 161,Electronics,SUP-004,180.89,268.88,40,20,3,1,0.9,growth,True
+SKU-162,Spare Parts Product 162,Spare Parts,SUP-010,738.49,945.36,10,10,8,2,0.97,declining,True
+SKU-163,Consumables Product 163,Consumables,SUP-002,52.58,65.95,5,5,5,2,0.97,volatile,True
+SKU-164,Electronics Product 164,Electronics,SUP-002,692.53,1120.12,20,1,5,2,0.9,intermittent,True
+SKU-165,Equipment Product 165,Equipment,SUP-008,6327.42,8180.24,40,20,7,4,0.95,volatile,True
+SKU-166,Consumables Product 166,Consumables,SUP-010,21.7,27.37,25,5,8,2,0.97,seasonal,True
+SKU-167,Consumables Product 167,Consumables,SUP-006,17.78,30.48,40,20,6,4,0.9,volatile,True
+SKU-168,Consumables Product 168,Consumables,SUP-009,113.14,155.21,25,1,6,3,0.95,growth,True
+SKU-169,Accessories Product 169,Accessories,SUP-002,454.84,655.95,5,5,5,2,0.95,stable,True
+SKU-170,Electronics Product 170,Electronics,SUP-004,225.8,376.53,50,5,2,1,0.97,seasonal,True
+SKU-171,Electronics Product 171,Electronics,SUP-006,566.24,995.61,50,10,7,4,0.95,volatile,True
+SKU-172,Spare Parts Product 172,Spare Parts,SUP-010,337.23,477.7,10,1,8,2,0.95,seasonal,True
+SKU-173,Spare Parts Product 173,Spare Parts,SUP-008,37.83,54.96,50,1,7,4,0.97,intermittent,True
+SKU-174,Electronics Product 174,Electronics,SUP-010,733.19,1071.53,20,1,9,2,0.95,intermittent,True
+SKU-175,Accessories Product 175,Accessories,SUP-005,174.33,263.52,20,1,6,4,0.97,stable,True
+SKU-176,Consumables Product 176,Consumables,SUP-001,147.45,191.15,5,1,4,2,0.99,declining,True
+SKU-177,Electronics Product 177,Electronics,SUP-009,651.16,870.8,20,10,6,3,0.95,volatile,True
+SKU-178,Electronics Product 178,Electronics,SUP-006,110.22,176.02,10,1,6,4,0.97,stable,True
+SKU-179,Consumables Product 179,Consumables,SUP-010,41.54,71.38,10,5,9,2,0.97,stable,True
+SKU-180,Consumables Product 180,Consumables,SUP-002,49.98,80.51,25,5,5,2,0.9,declining,True
+SKU-181,Electronics Product 181,Electronics,SUP-004,483.18,814.36,50,1,3,1,0.95,growth,True
+SKU-182,Equipment Product 182,Equipment,SUP-002,5307.28,7160.29,20,10,5,2,0.99,stable,True
+SKU-183,Accessories Product 183,Accessories,SUP-008,57.04,97.79,50,1,6,4,0.97,volatile,True
+SKU-184,Accessories Product 184,Accessories,SUP-003,306.68,409.37,50,5,5,2,0.95,volatile,True
+SKU-185,Accessories Product 185,Accessories,SUP-007,485.4,769.76,25,5,4,1,0.99,stable,True
+SKU-186,Spare Parts Product 186,Spare Parts,SUP-003,678.94,921.12,20,20,6,2,0.97,declining,True
+SKU-187,Electronics Product 187,Electronics,SUP-005,656.58,1169.66,10,5,6,4,0.95,stable,True
+SKU-188,Consumables Product 188,Consumables,SUP-006,85.41,111.58,10,1,7,4,0.95,stable,True
+SKU-189,Spare Parts Product 189,Spare Parts,SUP-007,679.93,905.02,5,1,4,1,0.97,intermittent,True
+SKU-190,Equipment Product 190,Equipment,SUP-001,5856.42,8597.52,20,5,4,2,0.95,new_product,True
+SKU-191,Equipment Product 191,Equipment,SUP-001,4846.19,6321.83,5,5,4,2,0.99,stable,True
+SKU-192,Spare Parts Product 192,Spare Parts,SUP-007,525.09,696.45,40,20,4,1,0.9,stable,True
+SKU-193,Consumables Product 193,Consumables,SUP-004,36.27,48.32,20,20,4,1,0.95,declining,True
+SKU-194,Equipment Product 194,Equipment,SUP-004,2001.37,2963.84,20,20,4,1,0.99,stable,True
+SKU-195,Electronics Product 195,Electronics,SUP-006,666.46,1064.72,50,5,7,4,0.95,stable,True
+SKU-196,Electronics Product 196,Electronics,SUP-007,455.74,712.72,25,1,4,1,0.9,new_product,True
+SKU-197,Electronics Product 197,Electronics,SUP-008,675.69,1136.87,20,1,8,4,0.9,intermittent,True
+SKU-198,Spare Parts Product 198,Spare Parts,SUP-009,735.97,1022.64,10,10,5,3,0.97,volatile,True
+SKU-199,Equipment Product 199,Equipment,SUP-006,9600.76,15883.04,5,5,6,4,0.95,volatile,True
+SKU-200,Accessories Product 200,Accessories,SUP-009,418.58,680.85,5,5,6,3,0.97,stable,True
