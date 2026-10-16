@@ -51,9 +51,9 @@ DATA = ROOT / "data" / "processed"
 
 st.set_page_config(
 
-    page_title="Procurement AI | Command Center",
+    page_title="Supply Chain Procurement | Command Center",
 
-    page_icon="ðŸ“¦",
+    page_icon="",
 
     layout="wide",
 
@@ -701,7 +701,7 @@ if filtered_inventory.empty:
 
 # ============================================================
 
-st.title("Procurement AI Command Center")
+st.title("Supply Chain Procurement Command Center")
 
 st.caption(
 
@@ -2027,7 +2027,7 @@ st.divider()
 
 st.caption(
 
-    "Procurement AI | Phase 10C | "
+    "Supply Chain Procurement | Phase 10C | "
 
     "Synthetic Planning Data | "
 
