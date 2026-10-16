@@ -1,0 +1,2 @@
+skus,better_skus,tied_skus,worse_skus,mean_selected_wape,mean_naive_wape,weighted_selected_wape,weighted_naive_wape,weighted_wape_improvement_pp,material_underforecast_skus,high_error_skus,production_model_mismatches,scope,evaluation_type
+199.0,182.0,17.0,0.0,0.36331050063459946,0.4557304400570186,0.23517093286006274,0.30676264983674095,7.159171697667821,16.0,75.0,0.0,ALL_BACKTESTED_SKUS,MODEL_SELECTION_BACKTEST_NOT_INDEPENDENT_HOLDOUT
